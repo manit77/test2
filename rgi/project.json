@@ -38,6 +38,12 @@
                 "title": "Problem statement",
                 "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Problem\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"What problem are we solving? Who feels it today?\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Current state\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Desired outcome\"}]}]}]},{\"type\":\"paragraph\"}]}",
                 "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c"
+              },
+              {
+                "id": "doc-0a253f21-5ec0-4497-ba3a-eb04113ef916",
+                "title": "Stories",
+                "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"Story 1\"}]},{\"type\":\"paragraph\"},{\"type\":\"heading\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"Story 2\"}]},{\"type\":\"paragraph\"}]}",
+                "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c"
               }
             ],
             "childNodes": [],
@@ -82,79 +88,6 @@
                 "id": "316f48f3-0864-4f58-9fad-69a1ff7a7694",
                 "title": "Stakeholder list",
                 "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Stakeholders\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Name, role, interest, and influence.\"}]}]}",
-                "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c"
-              }
-            ],
-            "childNodes": [],
-            "parentNode": null
-          }
-        ],
-        "parentNode": null
-      },
-      {
-        "id": "70122a29-8069-4c86-8aae-8c654c3162a3",
-        "name": "Requirements",
-        "nodeType": "group",
-        "description": "What the system must do and how well.",
-        "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c",
-        "documents": [],
-        "childNodes": [
-          {
-            "id": "65c4f4a7-4d43-488f-b56d-cf9743d79f58",
-            "name": "Functional requirements",
-            "nodeType": "component",
-            "description": "Features, behaviors, and user-facing capabilities.",
-            "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c",
-            "documents": [
-              {
-                "id": "a87b4ad5-c0b7-4999-9b6b-39e43d7482a6",
-                "title": "Functional backlog",
-                "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Functional requirements\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Prioritized capabilities and acceptance notes.\"}]}]}",
-                "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c"
-              }
-            ],
-            "childNodes": [],
-            "parentNode": null
-          },
-          {
-            "id": "fc4d6164-87c4-443a-b791-e93255353f10",
-            "name": "Non-functional requirements",
-            "nodeType": "component",
-            "description": "Performance, security, usability, and operability.",
-            "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c",
-            "documents": [
-              {
-                "id": "3b69f434-0646-4a50-9fd5-a60a12b5004a",
-                "title": "Non-functional requirements",
-                "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"NFRs\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Targets for performance, availability, security, and compliance.\"}]}]}",
-                "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c"
-              }
-            ],
-            "childNodes": [],
-            "parentNode": null
-          }
-        ],
-        "parentNode": null
-      },
-      {
-        "id": "c6edbbc4-b528-41bb-bccd-f050a20a838c",
-        "name": "Delivery",
-        "nodeType": "group",
-        "description": "Scope and timing for the first shippable increment.",
-        "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c",
-        "documents": [],
-        "childNodes": [
-          {
-            "id": "e41b06d3-4c72-407b-b350-e7b17cf5fa5c",
-            "name": "Scope & milestones",
-            "nodeType": "component",
-            "description": "MVP boundaries and key dates.",
-            "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c",
-            "documents": [
-              {
-                "id": "56284f9f-626b-4ff6-8957-0e0f341a0820",
-                "title": "Scope outline",
-                "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Scope\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"In scope, out of scope, and milestone plan.\"}]}]}",
                 "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c"
               }
             ],
