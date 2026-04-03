@@ -1,7 +1,7 @@
 {
-  "id": "1b86882a-509a-402f-95cc-6542116acb3e",
+  "id": "392fe213-d2e5-4f19-9abe-44db2281857a",
   "title": "Test2",
-  "description": "",
+  "description": "test 2 requirements",
   "status": "DRAFT",
   "version": "v0.1.0",
   "priority": "Normal",
@@ -19,7 +19,7 @@
     "documents": [],
     "childNodes": [
       {
-        "id": "423d4d20-95d8-4816-bb10-df279972a917",
+        "id": "bc0b1ede-6d8d-47f1-b602-d1aa53089861",
         "name": "Vision & goals",
         "nodeType": "group",
         "description": "Why this product exists and what success looks like.",
@@ -27,22 +27,17 @@
         "documents": [],
         "childNodes": [
           {
-            "id": "d83492fc-19c1-4df6-8407-401d01b77289",
+            "id": "24bc1031-2446-479e-9ad6-6d11fbc3de62",
             "name": "Problem statement",
             "nodeType": "component",
             "description": "Describe the pain, gap, or opportunity.",
             "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c",
             "documents": [
               {
-                "id": "1a546807-cea3-4ba5-8f55-a42769feab55",
+                "id": "019d51e5-f41f-73bf-8834-0e03859ed301",
                 "title": "Problem statement",
-                "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Problem\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"What problem are we solving? Who feels it today?\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Current state\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Desired outcome\"}]}]}]},{\"type\":\"paragraph\"}]}",
-                "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c"
-              },
-              {
-                "id": "doc-0a253f21-5ec0-4497-ba3a-eb04113ef916",
-                "title": "Stories",
-                "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"Story 1\"}]},{\"type\":\"paragraph\"},{\"type\":\"heading\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"Story 2\"}]},{\"type\":\"paragraph\"}]}",
+                "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Problem\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"What problem are we solving? Who feels it today?\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Current state\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Desired outcome\"}]}]}]}]}",
+                "position": 0,
                 "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c"
               }
             ],
@@ -50,16 +45,17 @@
             "parentNode": null
           },
           {
-            "id": "92807844-d476-4450-9fc2-a64201d44d1b",
+            "id": "0b34b883-0670-4482-8a2b-2fa58f173adb",
             "name": "Objectives & success criteria",
             "nodeType": "component",
             "description": "Measurable outcomes for this release or phase.",
             "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c",
             "documents": [
               {
-                "id": "b7f4393a-5298-4051-b49b-8a2662a9ca98",
+                "id": "019d51e5-f438-758b-bc60-ad22a2feeb7b",
                 "title": "Objectives",
                 "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Objectives\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"List objectives and how you will measure success.\"}]}]}",
+                "position": 0,
                 "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c"
               }
             ],
@@ -70,7 +66,7 @@
         "parentNode": null
       },
       {
-        "id": "2b91b1c2-ecff-43b9-b549-2cbe5acff201",
+        "id": "04159d76-e167-4543-8b63-0bdecd877564",
         "name": "Stakeholders",
         "nodeType": "group",
         "description": "Who is involved and who is affected.",
@@ -78,16 +74,64 @@
         "documents": [],
         "childNodes": [
           {
-            "id": "8977368c-ab0e-40b6-a0f1-61e6d53a7c2a",
+            "id": "3cabe444-2621-4f26-a43c-f163b8bedff4",
             "name": "Stakeholders & roles",
             "nodeType": "component",
             "description": "Owners, users, and approvers.",
             "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c",
             "documents": [
               {
-                "id": "316f48f3-0864-4f58-9fad-69a1ff7a7694",
+                "id": "019d51e5-f458-7489-b5ff-4d22ba379818",
                 "title": "Stakeholder list",
                 "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Stakeholders\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Name, role, interest, and influence.\"}]}]}",
+                "position": 0,
+                "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c"
+              }
+            ],
+            "childNodes": [],
+            "parentNode": null
+          }
+        ],
+        "parentNode": null
+      },
+      {
+        "id": "aedecb30-9df7-441c-8e3c-b3c39ce5d276",
+        "name": "Requirements",
+        "nodeType": "group",
+        "description": "What the system must do and how well.",
+        "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c",
+        "documents": [],
+        "childNodes": [
+          {
+            "id": "341d5cf2-d496-4c54-88e8-83eb06f7b66a",
+            "name": "Functional requirements",
+            "nodeType": "component",
+            "description": "Features, behaviors, and user-facing capabilities.",
+            "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c",
+            "documents": [
+              {
+                "id": "019d51e5-f477-75de-a385-8bb44db39a71",
+                "title": "Functional backlog",
+                "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"Functional requirements\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Prioritized capabilities and acceptance notes.\"}]}]}",
+                "position": 0,
+                "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c"
+              }
+            ],
+            "childNodes": [],
+            "parentNode": null
+          },
+          {
+            "id": "540cf925-f685-446c-9538-d2cbd038604d",
+            "name": "Non-functional requirements",
+            "nodeType": "component",
+            "description": "Performance, security, usability, and operability.",
+            "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c",
+            "documents": [
+              {
+                "id": "019d51e5-f48c-70ec-af12-2733ccb63128",
+                "title": "Non-functional requirements",
+                "content": "{\"type\":\"doc\",\"content\":[{\"type\":\"heading\",\"attrs\":{\"level\":3},\"content\":[{\"type\":\"text\",\"text\":\"NFRs\"}]},{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"Targets for performance, availability, security, and compliance.\"}]}]}",
+                "position": 0,
                 "createdBy": "6aea3b61-f3a9-4c0c-bd91-d92a8da5288c"
               }
             ],
