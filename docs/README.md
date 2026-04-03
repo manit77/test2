@@ -7,12 +7,11 @@ test 2 requirements
 - Status: DRAFT
 - Version: v0.1.0
 - Priority: Normal
-- Published At: 2026-04-03T06:33:58.204Z
+- Published At: 2026-04-03T06:40:54.613Z
 
 ## Documents
 
 - [Problem statement](./000-Problem-statement.md)
-- [Objectives](./001-Objectives.md)
-- [Stakeholder list](./002-Stakeholder-list.md)
-- [Functional backlog](./003-Functional-backlog.md)
-- [Non\-functional requirements](./004-Non-functional-requirements.md)
+- [Stories](./001-Stories.md)
+- [Objectives](./002-Objectives.md)
+- [Stakeholder list](./003-Stakeholder-list.md)
